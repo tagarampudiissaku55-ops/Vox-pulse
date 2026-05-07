@@ -1,0 +1,6 @@
+{
+  "name": "VoxPulse Election Analyst",
+  "description": "A sophisticated election data analysis tool that converts raw voter data into actionable demographic insights, trend reports, and anomaly detection alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
